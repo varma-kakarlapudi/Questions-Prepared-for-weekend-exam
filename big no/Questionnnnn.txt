@@ -1,0 +1,15 @@
+
+given a list of numbers...your task is to maximize the no.
+
+ex :
+ 50 6 9
+
+ans ::  9650
+
+
+
+CONSTRAINTS :
+
+Test cases :  1 < tc <16
+numbers   :  1 <= n < 20
+values        :  1 <= v < 1000
